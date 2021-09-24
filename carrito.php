@@ -4,7 +4,7 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Carrito de compras</title>
+   <title>Carrito de compras Plaza vea</title>
 </head>
 
 <body>
