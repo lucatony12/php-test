@@ -7,6 +7,12 @@
    <title>Carrito de compras Plaza vea</title>
 </head>
 
+<style>
+   h1 {
+      color: yellow;
+   }
+</style>
+
 <body>
    <h1>Formulario</h1>
    <form action="index.php" method="post">
