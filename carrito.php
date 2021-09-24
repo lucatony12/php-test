@@ -9,7 +9,7 @@
       <h1>Formulario</h1>
       <form action="index.php" method="post">
          <label>
-            Nombre:
+            Nombre completo:
             <input type="text" name="nombre">
          </label>
          <br>
